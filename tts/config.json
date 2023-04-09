@@ -1,0 +1,9 @@
+{
+"SMALL_TRADE":100,
+"BIG_TRADE":1000,
+"SYMBOL":"ARB/USDT",
+"TICK_SIZE": 0.0001,
+"PAY_THROUGH_TICKS": 0,
+"SOUND_FILE":"bonk.wav",
+"EXCHANGE":"binance"
+}
